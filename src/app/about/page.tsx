@@ -148,8 +148,8 @@ export default function About() {
             during summers. He is actively seeking internship opportunities, mentorship, and
             professional connections in multifamily real estate, outdoor industry, entrepreneurship,
             and business. He can be reached at{' '}
-            <a href="mailto:blake@blakefish.com" className="text-[#c8893a] hover:underline">
-              blake@blakefish.com
+            <a href="mailto:blakefisher2@gmail.com" className="text-[#c8893a] hover:underline">
+              blakefisher2@gmail.com
             </a>{' '}
             or on{' '}
             <a href="https://linkedin.com/in/blake-fisher-ski" className="text-[#c8893a] hover:underline" target="_blank">

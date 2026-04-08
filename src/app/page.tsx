@@ -99,7 +99,7 @@ export default function Home() {
         </div>
         <div>
           <p style={{fontSize:'16px', color:'rgba(255,255,255,0.6)', lineHeight:'1.85', marginBottom:'36px'}}>Studying business with a focus on real estate, entrepreneurship, and investment. Actively involved in multifamily real estate through a family portfolio. Looking for internship opportunities, mentorship, and connections in real estate, outdoor industry, and business.</p>
-          <a href="mailto:blake@blakefish.com" style={{display:'inline-block', fontSize:'11px', fontWeight:'700', letterSpacing:'0.2em', textTransform:'uppercase', backgroundColor:'#C9A84C', color:'#0B1F3A', padding:'16px 36px', textDecoration:'none'}}>Get in Touch →</a>
+          <a href="mailto:blakefisher2@gmail.com" style={{display:'inline-block', fontSize:'11px', fontWeight:'700', letterSpacing:'0.2em', textTransform:'uppercase', backgroundColor:'#C9A84C', color:'#0B1F3A', padding:'16px 36px', textDecoration:'none'}}>Get in Touch →</a>
         </div>
       </section>
 
