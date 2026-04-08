@@ -29,7 +29,7 @@ export default function Home() {
           <div style={{position:'relative', maxWidth:'400px', width:'100%'}}>
             <div style={{position:'absolute', top:'-12px', right:'-12px', width:'80px', height:'80px', borderTop:'2px solid #C9A84C', borderRight:'2px solid #C9A84C'}}></div>
             <div style={{position:'absolute', bottom:'-12px', left:'-12px', width:'80px', height:'80px', borderBottom:'2px solid #C9A84C', borderLeft:'2px solid #C9A84C'}}></div>
-            <img src="/images/blake-fisher.jpg" alt="Blake Fisher" style={{width:'100%', display:'block', objectFit:'cover', aspectRatio:'3/4'}}/>
+            <img src="/images/blake-fisher.jpeg" alt="Blake Fisher" style={{width:'100%', display:'block', objectFit:'cover', aspectRatio:'3/4'}}/>
           </div>
         </div>
       </section>
