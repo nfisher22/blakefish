@@ -109,7 +109,7 @@ export default function Home() {
         <span style={{fontSize:'12px', color:'rgba(255,255,255,0.2)'}}>© 2026 Blake Fisher · Columbus, OH & Boulder, CO</span>
         <div style={{display:'flex', gap:'28px'}}>
           <a href="https://linkedin.com/in/blake-fisher-ski" style={{fontSize:'11px', color:'rgba(255,255,255,0.3)', textDecoration:'none', letterSpacing:'0.1em', textTransform:'uppercase'}}>LinkedIn</a>
-          <a href="#" style={{fontSize:'11px', color:'rgba(255,255,255,0.3)', textDecoration:'none', letterSpacing:'0.1em', textTransform:'uppercase'}}>Instagram</a>
+          <a href="https://instagram.com/blakefisher06" style={{fontSize:'11px', color:'rgba(255,255,255,0.3)', textDecoration:'none', letterSpacing:'0.1em', textTransform:'uppercase'}}>Instagram</a>
         </div>
       </footer>
 
